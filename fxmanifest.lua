@@ -6,7 +6,7 @@ description 'A basic yet robust and extendable loading screen'
 version '1.2.0'
 repository 'https://github.com/project-error/pe-basicloading'
 
-loadscreen 'web/index.html'
+loadscreen 'Frostyx_intro.mp4'
 
 client_script 'client.lua'
 
